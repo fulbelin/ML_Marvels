@@ -4,6 +4,13 @@
 
 This project is an end-to-end machine learning application that summarizes articles and sends them to users via email. The application allows users to select topics of interest, and then it automatically generates summaries of articles related to those topics. These summaries are then sent to the users' email addresses.
 
+## Problem Description
+
+Reading lengthy articles can be time-consuming, especially when users are interested in multiple topics. This application aims to address this problem by providing users with summarized versions of articles based on their selected topics. By condensing the content into concise summaries, users can quickly grasp the key points of the articles without having to read through the entire text.
+
+## Solution Description
+
+The solution involves a web application where users can input their email addresses and select topics they are interested in. The backend of the application utilizes machine learning techniques to generate summaries of articles related to the chosen topics. These summaries are then sent to the users' email addresses. The application provides a user-friendly interface for easy interaction and seamless delivery of article summaries.
 ## Features
 
 - Summarization of articles: The application uses machine learning techniques to generate concise summaries of articles.
